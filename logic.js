@@ -1,5 +1,5 @@
 var age = 16 ;
-var result = nll;
+var result = null;
 if ( age >= 20 ) {
     result = '成年';
 }　else {
